@@ -18,5 +18,4 @@ This repository contains my solutions for the first homework of Koç University'
 pip3 install -r requirements.txt
 ```
 
-* Creating a virtual environment is recommended. Check report.pdf to see the report.
-* Check q4.ipynb, q5.ipynb and q6.ipynb for implementation related questions.
+Creating a virtual environment is recommended. Check report.pdf to see the report.
