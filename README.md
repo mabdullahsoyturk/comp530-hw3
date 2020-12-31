@@ -1,6 +1,6 @@
 # COMP 530 Homework 3
 
-This repository contains my solutions for the first homework of Koç University's Data Privacy and Security (COMP 530) course. 
+This repository contains my solutions for the third homework of Koç University's Data Privacy and Security (COMP 530) course. 
 
 ## Content
 
